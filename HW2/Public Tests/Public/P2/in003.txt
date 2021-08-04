@@ -1,0 +1,11 @@
+10
+2 0 1 X R 1 1 Y R
+3 0 1 0 R 1 1 1 R _ 2 _ L
+2 0 6 Z L 1 6 T L
+6 0 4 A R 1 4 B R C 7 C R D 7 D R Z 7 Z R T 7 T R
+6 0 4 0 R 1 4 1 R C 5 C L D 5 D L Z 5 Z L T 5 T L
+6 0 6 C L 1 6 D L A 8 A R B 8 B R X 8 X R Y 8 Y R
+6 0 6 0 L 1 6 1 L A 3 A R B 3 B R X 3 X R Y 3 Y R
+0
+0
+10
